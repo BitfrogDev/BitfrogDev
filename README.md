@@ -20,5 +20,4 @@
       <img width="30" src="gmail.svg">
     </a>
 </div>
-  
-![Snake animation](https://github.com/BitfrogDev/BitfrogDev/blob/output/github-contribution-grid-snake.svg)
+
