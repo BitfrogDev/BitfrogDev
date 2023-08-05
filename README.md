@@ -16,8 +16,8 @@
     
   
   <h1 align="center">CONTATO</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
+    <a href = "mailto: bitfrogdev@proton.me">
+      <img width="30" src="Mail-Icon-White-on-Grey.svg">
     </a>
 </div>
 
